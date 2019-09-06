@@ -1,1 +1,7 @@
-# CGAN-mnist-tensorflow --  Conditional Generative Adversarial Nets
+
+# projects:
+
+# CGAN --  CGAN mnist wtih tensorflow
+
+# DCGAN --  DCGAN mnist wtih tensorflow
+
